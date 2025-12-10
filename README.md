@@ -30,12 +30,6 @@
   <a href="https://github.com/webdev-devnash">
     <img src="https://img.shields.io/badge/GitHub-webdev--devnash-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
-  <!-- Animated Gmail Button (GIF) -->
-  <a href="mailto:devanshkapadiya592@gmail.com">
-    <img src="assets/animated-email.gif" alt="Email" style="height:48px; border-radius:8px;" />
-  </a>
-
 </p>
 
 
