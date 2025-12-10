@@ -20,12 +20,10 @@
 ---
 
 <p align="center">
-  <!-- "Open Links" badge — jumps to Links section -->
-  <a href="#links"><img src="https://img.shields.io/badge/%F0%9F%94%97-Open%20Links-0066FF?style=for-the-badge&logo=linktree" alt="Open Links" /></a>
   <!-- Quick contact badge -->
+    <a href="https://www.linkedin.com/in/devansh-kapadiya-tech"><img src="https://img.shields.io/badge/LinkedIn-Devansh%20Kapadiya-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+<a href="https://github.com/webdev-devnash"><img src="https://img.shields.io/badge/GitHub-webdev--devnash-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="mailto:devanshkapadiya592@gmail.com"><img src="https://img.shields.io/badge/Email-devanshkapadiya592%40gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email" /></a>
-  <a href="https://github.com/webdev-devnash"><img src="https://img.shields.io/badge/GitHub-webdev--devnash-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/devansh-kapadiya"><img src="https://img.shields.io/badge/LinkedIn-Devansh%20Kapadiya-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
 </p>
 
 ---
@@ -56,10 +54,11 @@ I’m a data analyst who transforms raw data into actionable insights. I build r
 <summary><strong>🎯 Click to view quick access links & projects</strong></summary>
 
 <p>
-  <a href="https://www.linkedin.com/in/devansh-kapadiya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Devansh%20Kapadiya-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/devansh-kapadiya-tech" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Devansh%20Kapadiya-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:devanshkapadiya592@gmail.com"><img src="https://img.shields.io/badge/Email-devanshkapadiya592%40gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email" /></a>
   <a href="https://github.com/webdev-devnash?tab=repositories"><img src="https://img.shields.io/badge/Projects-Pinned%20Repos-4C1?style=for-the-badge&logo=github" alt="Projects" /></a>
-  <a href="https://github.com/webdev-devnash/resume/raw/main/Devansh_Kapadiya_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-PDF-4A4A4A?style=for-the-badge&logo=adobeacrobat" alt="Resume" /></a>
+  <a href="https://raw.githubusercontent.com/webdev-devnash/webdev-devnash/main/assets/Devansh_Kapadiya_Resume.pdf
+)" target="_blank"><img src="https://img.shields.io/badge/Resume-PDF-4A4A4A?style=for-the-badge&logo=adobeacrobat" alt="Resume" /></a>
 </p>
 
 </details>
