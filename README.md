@@ -1,73 +1,73 @@
-# 👋 Hi, I’m Devansh Kapadiya
-**Data Analyst** | SQL · Python · Power BI · Advanced Excel  
-📍 India • 📫 devanshkapadiya592@gmail.com • 📱 +91-6355100160  
+# 👋 Hi, I’m **Devansh Kapadiya**  
+**Data Analyst** · SQL · Python · Power BI · Advanced Excel  
+📍 India • ✉️ devanshkapadiya592@gmail.com • 📞 +91-63551-00160  
 🔗 [LinkedIn](https://www.linkedin.com/in/devansh-kapadiya) · 🔗 [GitHub](https://github.com/webdev-devnash)
 
 ---
 
-<!-- "Open Links" badge — links to the Links section below -->
+<!-- Open Links Badge -->
 [![🔗 Open Links](https://img.shields.io/badge/%F0%9F%94%97-Open%20Links-0066FF?style=for-the-badge&logo=linktree)](#links)
 
 ---
 
+<!-- Video banner: Replace VIDEO_ID with your YouTube video id or replace image src with a GIF hosted in your repo (e.g. /assets/intro.gif) -->
+<p align="center">
+  <a href="https://youtu.be/VIDEO_ID" target="_blank">
+    <!-- 1) Use YouTube thumbnail -->
+    <img src="https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg" alt="Watch my intro video" width="900" style="max-width:100%; border-radius:12px;"/>
+  </a>
+  <br/>
+  <sub>▶️ Click the image to watch my quick intro / project walkthrough</sub>
+</p>
+
+---
+
 ## 🔎 About me
-Data-driven analyst skilled at turning messy data into clear, actionable insights. I work with SQL, Python (NumPy, Pandas, Matplotlib), Power BI and advanced Excel to perform EDA, feature engineering and build reports that help teams make decisions. I enjoy collaborating on projects that solve real business problems and improve customer experience.
+I turn messy data into clear, actionable insights. I build dashboards and analysis pipelines using SQL, Python (Pandas, NumPy), Power BI and Excel. I enjoy collaborating on product-focused analytics and building reproducible notebooks you can run.
 
 ---
 
 ## 🧰 Skills
-- **Languages & Querying:** SQL, Python  
-- **Python libraries:** NumPy, Pandas, Matplotlib, Seaborn  
-- **Visualization & BI:** Power BI, Advanced MS Excel, Tableau (learning)  
-- **Analysis:** Data Cleaning, EDA, Feature Engineering, Descriptive & Inferential Statistics
+- **Languages / Tools:** SQL · Python · Power BI · Excel · Git  
+- **Python libs:** Pandas · NumPy · Matplotlib · Scikit-learn  
+- **Analysis:** EDA · Feature Engineering · Reporting · A/B Analysis
 
 ---
 
 ## 📂 Selected Projects
-- **Customer Churn Analysis** — EDA, feature engineering, dashboard (Power BI)  
-- **HR Attrition Prediction** — model comparison & feature importance (Python)  
-- **Salary Grouping & Analysis** — Pandas groupby & reporting
+- **Customer Churn Analysis** — EDA, feature engineering, Power BI dashboard.  
+- **HR Attrition Prediction** — model comparison & business-impact summary.  
+- **Salary Grouping & Analysis** — Pandas reporting + grouped metrics.
 
-(See pinned repos for notebooks and dashboards.)
+_(See pinned repositories for notebooks and dashboards.)_
 
 ---
 
-## 🔗 Links & Quick Access
+## 🔗 Links
 <details>
-<summary>Click to open all contact & project links (badges) — quick view</summary>
+<summary><b>Click to open all contact & project links</b></summary>
 
-<!-- Individual badges for each link — change URLs if needed -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Devansh%20Kapadiya-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/devansh-kapadiya)  
 [![Email](https://img.shields.io/badge/Email-devanshkapadiya592%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:devanshkapadiya592@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-webdev--devnash-181717?style=for-the-badge&logo=github)](https://github.com/webdev-devnash)  
 [![Resume](https://img.shields.io/badge/Resume-PDF-4A4A4A?style=for-the-badge&logo=adobeacrobat)](https://github.com/webdev-devnash/resume/raw/main/Devansh_Kapadiya_Resume.pdf)  
-[![Projects](https://img.shields.io/badge/Projects-Pinned%20Repos-4C1?style=for-the-badge&logo=github)](https://github.com/webdev-devnash?tab=repositories)  
+[![Projects](https://img.shields.io/badge/Projects-Pinned%20Repos-4C1?style=for-the-badge&logo=github)](https://github.com/webdev-devnash?tab=repositories)
 
 </details>
 
-> **Tip:** The top "Open Links" badge jumps visitors to this section immediately.
+---
+
+## 🏅 Certifications
+- Gen-AI Powered Data Analyst Job Simulation — Tata/Forage (2025)  
+- Cisco Networking Academy — Intro to Data Science (Oct 2025)  
+- Data Analytics Job Simulation — Deloitte/Forage (Nov 2025)
 
 ---
 
-## 🏅 Certifications & Simulations
-- **Gen-AI Powered Data Analyst Job Simulation** — Tata/Forage (2025)  
-- **Cisco Networking Academy** — Introduction to Data Science (Oct 2025)  
-- **Data Analytics Job Simulation** — Deloitte/Forage (Nov 2025)
-
----
-
-## 🎓 Education
-**B.Sc. in Information Technology** — SSSDIIT, Junagadh (Apr 2022 – May 2025)  
-CGPA: **8.79 / 10**
-
----
-
-## 🚀 Want this to behave like a "one-click open all" page?
-Because GitHub renders only sanitized Markdown and disallows JavaScript inside `README.md`, you have two solid options I can create for you right now:
-
-1. **Link-landing page (recommended)** — I make a small repo page (`links/README.md`) or GitHub Pages HTML that contains all your links and visually nice buttons; you can point the Open Links badge to that page and visitors can open each link quickly.  
-2. **Single-link aggregator** — Use an external aggregator (Linktree / Beacons / About.me). The Open Links badge would point to that single aggregator URL and visitors can access all external links in one place.
-
-If you prefer, I can **create the `links/README.md` file content now** (with the same badge-style buttons and a short description) and show you exactly what to commit — I can even produce a ready-to-commit file content that you can paste. Which should I generate for you: **(A)** `links/README.md` for your profile repo, or **(B)** a short, copy-paste-ready GitHub Pages `index.html` (landing page) to host via GitHub Pages?  
-
-(If you want me to produce it immediately, I’ll generate the full file content — no waiting required.)
+## 🎯 Quick tips to make the banner act like `parthsharma1011`:
+1. **YouTube thumbnail (recommended):** replace `VIDEO_ID` in the banner code above with your YouTube video id (the thumbnail is served from `img.youtube.com`). Clicking opens the video in a new tab.  
+2. **Animated GIF:** create a short GIF (≈3–8s) from your video, add it to the repo at `/assets/intro.gif`, then replace the `img` src with `/assets/intro.gif`. GIFs animate on GitHub and provide that “moving” look.  
+   ```md
+   <a href="https://youtu.be/VIDEO_ID" target="_blank">
+     <img src="/assets/intro.gif" alt="Watch my intro" width="900" style="max-width:100%; border-radius:12px;"/>
+   </a>
