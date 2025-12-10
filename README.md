@@ -26,6 +26,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-Devansh%20Kapadiya-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 
+  <a href="https://raw.githubusercontent.com/webdev-devnash/webdev-devnash/main/assets/Devansh_Kapadiya_ATS_Resume.pdf
+" target="_blank"><img src="https://img.shields.io/badge/Resume-PDF-4A4A4A?style=for-the-badge&logo=adobeacrobat" alt="Resume" />
+</a>
+
   <!-- Green GitHub Button -->
   <a href="https://github.com/webdev-devnash">
     <img src="https://img.shields.io/badge/GitHub-webdev--devnash-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
