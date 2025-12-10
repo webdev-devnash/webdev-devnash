@@ -1,51 +1,66 @@
-# 👋 Hi, I’m **Devansh Kapadiya**  
-**Data Analyst** · SQL · Python · Power BI · Advanced Excel  
-📍 India • ✉️ devanshkapadiya592@gmail.com • 📞 +91-63551-00160  
-🔗 [LinkedIn](https://www.linkedin.com/in/devansh-kapadiya) · 🔗 [GitHub](https://github.com/webdev-devnash)
+<p align="center">
+  <img src="https://img.shields.io/badge/Devansh%20Kapadiya-Data%20Analyst-blue?style=for-the-badge&logo=github" alt="Devansh Kapadiya" />
+</p>
+
+<h1 align="center">👋 Hi, I’m <strong>Devansh Kapadiya</strong></h1>
+<p align="center">Data Analyst • SQL · Python · Power BI · Advanced Excel</p>
+<p align="center">📍 India · ✉️ <a href="mailto:devanshkapadiya592@gmail.com">devanshkapadiya592@gmail.com</a> · 📞 +91-63551-00160</p>
 
 ---
 
-<!-- Video banner: Replace VIDEO_ID with your YouTube video id or replace image src with a GIF hosted in your repo (e.g. /assets/intro.gif) -->
+<!-- HERO / Animated GIF banner (upload your GIF to assets/intro.gif) -->
 <p align="center">
-  <a href="https://youtu.be/VIDEO_ID" target="_blank">
-    <!-- 1) Use YouTube thumbnail -->
-    <img src="https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg" alt="Watch my intro video" width="900" style="max-width:100%; border-radius:12px;"/>
+  <a href="#about" title="About me">
+    <img src="assets/intro.gif" alt="Intro GIF" style="max-width:100%; border-radius:12px; box-shadow: 0 6px 24px rgba(0,0,0,0.12);" />
   </a>
-  <br/>
-  <sub>▶️ Click the image to watch my quick intro / project walkthrough</sub>
+  <br />
+  <sub>▶️ Click the banner to jump to my about section — GIF loops for a lively intro</sub>
 </p>
 
 ---
 
-## 🔎 About me
-I turn messy data into clear, actionable insights. I build dashboards and analysis pipelines using SQL, Python (Pandas, NumPy), Power BI and Excel. I enjoy collaborating on product-focused analytics and building reproducible notebooks you can run.
+<p align="center">
+  <!-- "Open Links" badge — jumps to Links section -->
+  <a href="#links"><img src="https://img.shields.io/badge/%F0%9F%94%97-Open%20Links-0066FF?style=for-the-badge&logo=linktree" alt="Open Links" /></a>
+  <!-- Quick contact badge -->
+  <a href="mailto:devanshkapadiya592@gmail.com"><img src="https://img.shields.io/badge/Email-devanshkapadiya592%40gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  <a href="https://github.com/webdev-devnash"><img src="https://img.shields.io/badge/GitHub-webdev--devnash-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/devansh-kapadiya"><img src="https://img.shields.io/badge/LinkedIn-Devansh%20Kapadiya-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+</p>
 
 ---
 
-## 🧰 Skills
-- **Languages / Tools:** SQL · Python · Power BI · Excel · Git  
-- **Python libs:** Pandas · NumPy · Matplotlib · Scikit-learn  
-- **Analysis:** EDA · Feature Engineering · Reporting · A/B Analysis
+## 🔎 About
+I’m a data analyst who transforms raw data into actionable insights. I build reproducible notebooks, dashboards (Power BI) and analytical reports that help product & business teams make confident decisions. I enjoy working on real-world analytics problems — especially churn, retention and employee analytics.
+
+---
+
+## 🧰 Core Skills
+- **Languages & Tools:** SQL · Python · Power BI · Excel · Git  
+- **Python libs:** Pandas · NumPy · Matplotlib · scikit-learn  
+- **Work:** EDA · Data Cleaning · Feature Engineering · Dashboards · Reporting
 
 ---
 
 ## 📂 Selected Projects
-- **Customer Churn Analysis** — EDA, feature engineering, Power BI dashboard.  
-- **HR Attrition Prediction** — model comparison & business-impact summary.  
-- **Salary Grouping & Analysis** — Pandas reporting + grouped metrics.
+- **Customer Churn Analysis** — EDA, feature engineering, Power BI dashboard — business-focused insights.  
+- **HR Attrition Prediction** — model comparison & retention strategy suggestions.  
+- **Salary Grouping & Reporting** — grouped metrics & verification using Pandas.
 
-_(See pinned repositories for notebooks and dashboards.)_
+*(See pinned repos for notebooks and dashboards.)*
 
 ---
 
 ## 🔗 Links
 <details>
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devansh%20Kapadiya-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/devansh-kapadiya)  
-[![Email](https://img.shields.io/badge/Email-devanshkapadiya592%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:devanshkapadiya592@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-webdev--devnash-181717?style=for-the-badge&logo=github)](https://github.com/webdev-devnash)  
-[![Resume](https://img.shields.io/badge/Resume-PDF-4A4A4A?style=for-the-badge&logo=adobeacrobat)](https://github.com/webdev-devnash/resume/raw/main/Devansh_Kapadiya_Resume.pdf)  
-[![Projects](https://img.shields.io/badge/Projects-Pinned%20Repos-4C1?style=for-the-badge&logo=github)](https://github.com/webdev-devnash?tab=repositories)
+<summary><strong>🎯 Click to view quick access links & projects</strong></summary>
+
+<p>
+  <a href="https://www.linkedin.com/in/devansh-kapadiya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Devansh%20Kapadiya-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:devanshkapadiya592@gmail.com"><img src="https://img.shields.io/badge/Email-devanshkapadiya592%40gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  <a href="https://github.com/webdev-devnash?tab=repositories"><img src="https://img.shields.io/badge/Projects-Pinned%20Repos-4C1?style=for-the-badge&logo=github" alt="Projects" /></a>
+  <a href="https://github.com/webdev-devnash/resume/raw/main/Devansh_Kapadiya_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-PDF-4A4A4A?style=for-the-badge&logo=adobeacrobat" alt="Resume" /></a>
+</p>
 
 </details>
 
@@ -58,10 +73,16 @@ _(See pinned repositories for notebooks and dashboards.)_
 
 ---
 
-## 🎯 Quick tips to make the banner act like `parthsharma1011`:
-1. **YouTube thumbnail (recommended):** replace `VIDEO_ID` in the banner code above with your YouTube video id (the thumbnail is served from `img.youtube.com`). Clicking opens the video in a new tab.  
-2. **Animated GIF:** create a short GIF (≈3–8s) from your video, add it to the repo at `/assets/intro.gif`, then replace the `img` src with `/assets/intro.gif`. GIFs animate on GitHub and provide that “moving” look.  
-   ```md
-   <a href="https://youtu.be/VIDEO_ID" target="_blank">
-     <img src="/assets/intro.gif" alt="Watch my intro" width="900" style="max-width:100%; border-radius:12px;"/>
-   </a>
+## 🎯 What I’m learning
+Tableau · advanced ML pipelines · dashboard deployment
+
+---
+
+## 🤝 Let’s connect
+If you’d like to collaborate or need an analytics project, feel free to email me or connect on LinkedIn.
+
+---
+
+<p align="center">
+  <small>Made with ❤️ • © Devansh Kapadiya</small>
+</p>
