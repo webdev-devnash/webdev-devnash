@@ -5,11 +5,6 @@
 
 ---
 
-<!-- Open Links Badge -->
-[![🔗 Open Links](https://img.shields.io/badge/%F0%9F%94%97-Open%20Links-0066FF?style=for-the-badge&logo=linktree)](#links)
-
----
-
 <!-- Video banner: Replace VIDEO_ID with your YouTube video id or replace image src with a GIF hosted in your repo (e.g. /assets/intro.gif) -->
 <p align="center">
   <a href="https://youtu.be/VIDEO_ID" target="_blank">
@@ -45,8 +40,7 @@ _(See pinned repositories for notebooks and dashboards.)_
 
 ## 🔗 Links
 <details>
-<summary><b>Click to open all contact & project links</b></summary>
-
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Devansh%20Kapadiya-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/devansh-kapadiya)  
 [![Email](https://img.shields.io/badge/Email-devanshkapadiya592%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:devanshkapadiya592@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-webdev--devnash-181717?style=for-the-badge&logo=github)](https://github.com/webdev-devnash)  
