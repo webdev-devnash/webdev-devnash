@@ -13,23 +13,23 @@
   <a href="#about" title="About me">
     <img src="assets/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966.gif" alt="Intro GIF" style="max-width:100%; border-radius:12px; box-shadow: 0 6px 24px rgba(0,0,0,0.12);" />
   </a>
-  <br />
-  <sub>▶️ Click the banner to jump to my about section — GIF loops for a lively intro</sub>
 </p>
 
 ---
 
 <p align="center">
-
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/devansh-kapadiya-tech">
     <img src="https://img.shields.io/badge/LinkedIn-Devansh%20Kapadiya-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 
-  <a href="https://raw.githubusercontent.com/webdev-devnash/webdev-devnash/main/assets/Devansh_Kapadiya_ATS_Resume.pdf
-" target="_blank"><img src="https://img.shields.io/badge/Resume-PDF-4A4A4A?style=for-the-badge&logo=adobeacrobat" alt="Resume" />
-</a>
+<p align="center">
 
+  <a href="https://raw.githubusercontent.com/webdev-devnash/webdev-devnash/main/assets/Devansh_Kapadiya_ATS_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-PDF-4A4A4A?style=for-the-badge&logo=adobeacrobat" alt="Resume" />
+  </a>
+
+<p align="center">
   <!-- Green GitHub Button -->
   <a href="https://github.com/webdev-devnash">
     <img src="https://img.shields.io/badge/GitHub-webdev--devnash-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
