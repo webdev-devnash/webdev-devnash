@@ -65,7 +65,7 @@ I’m a data analyst who transforms raw data into actionable insights. I build r
   <a href="mailto:devanshkapadiya592@gmail.com"><img src="https://img.shields.io/badge/Email-devanshkapadiya592%40gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email" /></a>
   <a href="https://github.com/webdev-devnash?tab=repositories"><img src="https://img.shields.io/badge/Projects-Pinned%20Repos-4C1?style=for-the-badge&logo=github" alt="Projects" /></a>
   <a href="https://raw.githubusercontent.com/webdev-devnash/webdev-devnash/main/assets/Devansh_Kapadiya_ATS_Resume.pdf
-)" target="_blank"><img src="https://img.shields.io/badge/Resume-PDF-4A4A4A?style=for-the-badge&logo=adobeacrobat" alt="Resume" /></a>
+" target="_blank"><img src="https://img.shields.io/badge/Resume-PDF-4A4A4A?style=for-the-badge&logo=adobeacrobat" alt="Resume" /></a>
 </p>
 
 </details>
