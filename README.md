@@ -26,7 +26,6 @@
     <img src="https://img.shields.io/badge/Resume-PDF-4A4A4A?style=for-the-badge&logo=adobeacrobat" alt="Resume" />
   </a>
 </p>
-
 <br>
 <p align="center">
   <!-- Green GitHub Button -->
